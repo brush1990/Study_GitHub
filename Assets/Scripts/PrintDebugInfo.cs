@@ -5,7 +5,7 @@ public class PrintDebugInfo : MonoBehaviour
 {	
 	void Awake() 
     {
-        Debug.Log("PrintDebugInfo is Runing!");
+        Debug.Log("Test Delete Recovery!");
 	}
 		
 	void Start() 
